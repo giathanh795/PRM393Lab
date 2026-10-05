@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Noise-Canceling Headphones",
+    "category": "Electronics",
+    "price": 99.99,
+    "rating": 4.8,
+    "description": "High-fidelity wireless sound with 30-hour battery life."
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard RGB",
+    "category": "Accessories",
+    "price": 69.50,
+    "rating": 4.6,
+    "description": "Tactile blue switches with customizable backlight effects."
+  },
+  {
+    "id": 3,
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "price": 149.00,
+    "rating": 4.7,
+    "description": "Breathable mesh back with adjustable lumbar support."
+  },
+  {
+    "id": 4,
+    "name": "Smart Fitness Watch",
+    "category": "Wearables",
+    "price": 79.99,
+    "rating": 4.5,
+    "description": "Heart rate tracking, GPS, and waterproof design."
+  },
+  {
+    "id": 5,
+    "name": "4K Ultra-Wide Monitor 34\"",
+    "category": "Electronics",
+    "price": 329.99,
+    "rating": 4.9,
+    "description": "Curved panel with HDR10 support and 144Hz refresh rate."
+  },
+  {
+    "id": 6,
+    "name": "Aluminum Laptop Stand",
+    "category": "Accessories",
+    "price": 25.00,
+    "rating": 4.4,
+    "description": "Foldable and portable stand with heat ventilation."
+  }
+]
